@@ -1,1 +1,3 @@
-my-secret-notes.txt
+# ignore secret files
+
+*secret*
